@@ -89,7 +89,7 @@ input[type="radio"], input[type="checkbox"] {
 
   z-Index: 10000;
   position: absolute;
-  top: 50px;
+  top: 20px;
   right: 30px;
  background: #eee;
   display: block;
