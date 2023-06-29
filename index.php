@@ -36,7 +36,7 @@
         box-sizing: border-box;
     }
     </style>
-    <!-- Optionally set custom CSS for table here. This CSS center aligns all columnsin all tables. For help see here: https://www.w3schools.com/css/css_table.asp -->
+    <!-- Optionally set custom  CSS for table here. This CSS center aligns all columnsin all tables. For help see here: https://www.w3schools.com/css/css_table.asp -->
     <style type="text/css" class="custom_table">
     table {
         border-collapse: collapse;
